@@ -13,7 +13,7 @@
 
 *   🌍 **Location**: Abdara Road, Peshawar, Pakistan
 *   📧 **Contact**: [codecraftitsol@gmail.com](mailto:codecraftitsol@gmail.com)
-*   🌐 **Website**: [codecraftpakistan.github.io/Final-website](https://codecraftpakistan.github.io/Final-website/)
+*   🌐 **Website**: [codecraftpakistan.github.io/Final-website](https://codecraftpk.com/)
 
 ---
 
@@ -65,6 +65,4 @@ We build with the best modern tools:
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by Code Craft It Solution Team</sub>
-</div>
+
